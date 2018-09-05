@@ -56,7 +56,7 @@ class InstallHeaders(install_headers):
 
 
 setup(
-    name='pybind11-samer',
+    name='pybind11',
     version=__version__,
     description='Seamless operability between C++11 and Python (patched)',
     author='Samer Masterson',
